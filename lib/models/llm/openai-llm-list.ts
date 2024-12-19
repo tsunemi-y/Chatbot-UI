@@ -7,7 +7,7 @@ const GPT4o: LLM = {
   modelId: "chatgpt-4o-latest",
   modelName: "GPT-4o",
   provider: "openai",
-  hostedId: "chatgpt-4o-latest",
+  hostedId: "gpt-4o",
   platformLink: OPENAI_PLATORM_LINK,
   imageInput: true,
   pricing: {
